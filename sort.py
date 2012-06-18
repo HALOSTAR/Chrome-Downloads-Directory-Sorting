@@ -1,3 +1,9 @@
+"""
+Ver 1.0
+author: Halostar
+licensed under GPL
+"""
+
 #! /usr/bin/env python
 from os import *
 from shutil import *
